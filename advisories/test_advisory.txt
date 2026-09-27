@@ -1,0 +1,1 @@
+Adversaries are abusing bitsadmin.exe to download malicious payloads from remote command and control servers.
