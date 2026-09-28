@@ -1,0 +1,3 @@
+Copilot said:
+
+Attackers exploit critical zero-day vulnerabilities in Citrix NetScaler ADC or NetScaler Gateway to execute commands remotely or crash the appliance. After compromise, they may establish persistence, modify configurations, steal VPN sessions, contact external command-and-control servers, access internal systems, move laterally, and disable security logging.
